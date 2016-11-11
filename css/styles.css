@@ -1,7 +1,19 @@
+<<<<<<< HEAD
+#sizeResponses {
+  display: none;
+}
+
+#toppingResponses {
+  display: none;
+}
+
+#totalPrice {
+=======
 #size-responses {
   display: none;
 }
 
 #topping-responses {
+>>>>>>> db1c74f27b6c8a2d3aa4fc45e318c481512a413e
   display: none;
 }
